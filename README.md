@@ -12,8 +12,6 @@ Final Report
 
 My complete 12-page analysis, including all study question answers, results, and conclusions, is available in this repository:
 
-View Final Report (PDF)
-
 Summary of Experimental Findings
 
 The 32 experiments were based on the "Group 1" parameters (block_size=64, n_layer=4). The key findings were:
